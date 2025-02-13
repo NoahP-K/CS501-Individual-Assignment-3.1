@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<photos>
+    <photo>
+        <title>Bread-Free Toast</title>
+        <file>bread_free_toast</file>
+    </photo>
+    <photo>
+        <title>Freedom</title>
+        <file>freedom</file>
+    </photo>
+    <photo>
+        <title>Fruit Salad</title>
+        <file>fruit_salad</file>
+    </photo>
+    <photo>
+        <title>Goggles</title>
+        <file>goggles</file>
+    </photo>
+    <photo>
+        <title>Green Shirt</title>
+        <file>green_shirt</file>
+    </photo>
+    <photo>
+        <title>Incognito</title>
+        <file>incognito</file>
+    </photo>
+    <photo>
+        <title>Lament</title>
+        <file>lament</file>
+    </photo>
+    <photo>
+        <title>Leftovers</title>
+        <file>leftovers</file>
+    </photo>
+    <photo>
+        <title>Lookout</title>
+        <file>lookout</file>
+    </photo>
+    <photo>
+        <title>Melon Mack</title>
+        <file>melon_mack</file>
+    </photo>
+    <photo>
+        <title>Mack's Uke'</title>
+        <file>melon_ukulele</file>
+    </photo>
+    <photo>
+        <title>Watermelon</title>
+        <file>watermelon</file>
+    </photo>
+</photos>
